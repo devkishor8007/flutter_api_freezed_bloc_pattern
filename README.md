@@ -1,16 +1,30 @@
-# flutter_api_freezed
+# flutter_api_freezed_bloc
 
-A new Flutter project.
+Fetcher-Throx App which is developed using Flutter. I am following the bloc architecture pattern as the code generator i.e Freezed and getting the API data. This project is made for learning the bloc architecture pattern.
 
-## Getting Started
+## Setup project
+
+#### Fork the repo or Clone the repo directly
+    git clone https://github.com/devkishor8007/flutter_api_freezed_bloc_pattern.git
+
+#### Get flutter dependencies
+    flutter pub get
+    
+#### Run the app
+     flutter run
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I am getting the data from API.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Fetcher-Throx App Final Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/73419211/130905259-441ad17b-3ca5-4d2f-be71-8154dc74917f.jpg" height="550" width="260">
+<img src="https://user-images.githubusercontent.com/73419211/130905257-93353ab9-fde3-40f6-a6e0-a5ff3677efb4.jpg" height="550" width="260">
+<img src="https://user-images.githubusercontent.com/73419211/130905248-a4d42eed-203e-4f3e-a9e7-7b4a39b40467.jpg" height="550" width="260">
+
+ ## Resources   
+[Flutter Docs](https://flutter.dev/docs)
+[Freezed Docs](https://pub.dev/packages/freezed)
+[Bloc Docs](https://bloclibrary.dev/#/gettingstarted)

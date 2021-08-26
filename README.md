@@ -3,7 +3,7 @@
 Fetcher-Throx App which is developed using Flutter. I am following the bloc architecture pattern as the code generator i.e Freezed and getting the API data. This project is made for learning the bloc architecture pattern.
 
 ## Getting Started
-For help getting started with Flutter, view online (documentation](https://flutter.dev/).
+For help getting started with Flutter, view online [documentation](https://flutter.dev/).
 
 #### [Setup Flutter](https://flutter.dev/docs/get-started/install)
 
